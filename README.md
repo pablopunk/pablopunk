@@ -1,4 +1,8 @@
-### Contributor
+<p align="center">
+  <img src="https://github.com/pablopunk/pablopunk/raw/master/res/icons.png" />
+</p>
+
+![Contributor](https://github.com/pablopunk/pablopunk/raw/master/res/contributor.png)
 
 - [superdesk](https://github.com/superdesk/superdesk-client-core)
 - [lad](https://github.com/ladjs/lad)
@@ -9,7 +13,7 @@
 - [mas-cli](https://github.com/mas-cli/mas)
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
 
-### Popular projects
+![Pinned](https://github.com/pablopunk/pablopunk/raw/master/res/pinned.png)
 
 - [pablo.pink](https://pablo.pink)
 - [vimcolors.org](https://vimcolors.org)
