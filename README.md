@@ -8,7 +8,6 @@
 - [serve](https://github.com/vercel/serve)
 - [mas-cli](https://github.com/mas-cli/mas)
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
 
 ### Popular projects
 
