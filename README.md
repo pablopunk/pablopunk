@@ -1,12 +1,12 @@
 ## Hello! I'm Pablo.
 
-I'm a web developer working remotely from Pontevedra (Galiza ![galiza](https://github.com/pablopunk/pablopunk/raw/master/res/galiza.png)).
+I'm a web developer working remotely from Pontevedra (Galiza ![galiza](https://github.com/pablopunk/pablopunk/raw/master/res/galiza.svg)).
 
-![react](https://github.com/pablopunk/pablopunk/raw/master/res/react.png) ReactJS + Typescript + Javascript + NodeJS
-![lang](https://github.com/pablopunk/pablopunk/raw/master/res/lang.png) Spanish + Galician + English
-![link](https://github.com/pablopunk/pablopunk/raw/master/res/link.png) [pablo.pink](https:/pablo.pink)
+![react](https://github.com/pablopunk/pablopunk/raw/master/res/react.svg) ReactJS + Typescript + Javascript + NodeJS
+![lang](https://github.com/pablopunk/pablopunk/raw/master/res/lang.svg) Spanish + Galician + English
+![link](https://github.com/pablopunk/pablopunk/raw/master/res/link.svg) [pablo.pink](https:/pablo.pink)
 
-![heart](https://github.com/pablopunk/pablopunk/raw/master/res/heart.png) Contributor:
+![heart](https://github.com/pablopunk/pablopunk/raw/master/res/heart.svg) Contributor:
 
 - [superdesk](https://github.com/superdesk/superdesk-client-core)
 - [lad](https://github.com/ladjs/lad)
@@ -17,7 +17,7 @@ I'm a web developer working remotely from Pontevedra (Galiza ![galiza](https://g
 - [mas-cli](https://github.com/mas-cli/mas)
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
 
-![heart-teal](https://github.com/pablopunk/pablopunk/raw/master/res/heart-teal.png) Pinned projects:
+![heart-teal](https://github.com/pablopunk/pablopunk/raw/master/res/heart-teal.svg) Pinned projects:
 
 - [pablo.pink](https://pablo.pink)
 - [vimcolors.org](https://vimcolors.org)
