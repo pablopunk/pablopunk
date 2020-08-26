@@ -1,8 +1,12 @@
-<p align="center">
-  <img src="https://github.com/pablopunk/pablopunk/raw/master/res/icons.png" />
-</p>
+## Hello! I'm Pablo.
 
-![Contributor](https://github.com/pablopunk/pablopunk/raw/master/res/contributor.png)
+I'm a web developer working remotely from Pontevedra (Galiza ![galiza](https://github.com/pablopunk/pablopunk/raw/master/res/galiza.png)).
+
+![react](https://github.com/pablopunk/pablopunk/raw/master/res/react.png) ReactJS + Typescript + Javascript + NodeJS
+![lang](https://github.com/pablopunk/pablopunk/raw/master/res/lang.png) Spanish + Galician + English
+![link](https://github.com/pablopunk/pablopunk/raw/master/res/link.png) [pablo.pink](https:/pablo.pink)
+
+![heart](https://github.com/pablopunk/pablopunk/raw/master/res/heart.png) Contributor:
 
 - [superdesk](https://github.com/superdesk/superdesk-client-core)
 - [lad](https://github.com/ladjs/lad)
@@ -13,7 +17,7 @@
 - [mas-cli](https://github.com/mas-cli/mas)
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
 
-![Pinned](https://github.com/pablopunk/pablopunk/raw/master/res/pinned.png)
+![heart-teal](https://github.com/pablopunk/pablopunk/raw/master/res/heart-teal.png) Pinned projects:
 
 - [pablo.pink](https://pablo.pink)
 - [vimcolors.org](https://vimcolors.org)
