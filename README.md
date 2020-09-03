@@ -1,4 +1,4 @@
-![github stats for pablopunk](https://github-readme-stats.vercel.app/api?username=pablopunk&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true)
+![github stats for pablopunk](https://github-readme-stats.vercel.app/api?username=pablopunk&show_icons=true&icon_color=4f8cc9&bg_color=000000&text_color=d3d3d3&hide_title=true)
 
 ### Hello! I'm Pablo.
 
