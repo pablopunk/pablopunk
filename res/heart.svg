@@ -1,7 +1,1 @@
-<svg width="17" height="14" viewBox="0 0 17 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="5.60867" cy="5.8002" r="3.96593" transform="rotate(-45 5.60867 5.8002)" fill="#D7004D"/>
-<rect x="2.80435" y="8.60452" width="7.93186" height="6.48971" transform="rotate(-45 2.80435 8.60452)" fill="#D7004D"/>
-<circle cx="10.9874" cy="5.60867" r="3.96593" transform="rotate(45 10.9874 5.60867)" fill="#D7004D"/>
-<rect x="8.18304" y="2.80434" width="7.93186" height="6.48971" transform="rotate(45 8.18304 2.80434)" fill="#D7004D"/>
-<rect x="6.0795" y="11.8719" width="2.75175" height="3.00964" transform="rotate(-45 6.0795 11.8719)" fill="#D7004D"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="17" height="14" fill="none" viewBox="0 0 17 14"><circle cx="5.609" cy="5.8" r="3.966" fill="#D7004D" transform="rotate(-45 5.60867 5.8002)"/><rect width="7.932" height="6.49" x="2.804" y="8.605" fill="#D7004D" transform="rotate(-45 2.80435 8.60452)"/><circle cx="10.987" cy="5.609" r="3.966" fill="#D7004D" transform="rotate(45 10.9874 5.60867)"/><rect width="7.932" height="6.49" x="8.183" y="2.804" fill="#D7004D" transform="rotate(45 8.18304 2.80434)"/><rect width="2.752" height="3.01" x="6.08" y="11.872" fill="#D7004D" transform="rotate(-45 6.0795 11.8719)"/></svg>
