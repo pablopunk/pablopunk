@@ -1,6 +1,9 @@
 <p></p>
 
-![github stats for pablopunk](https://github-readme-stats.vercel.app/api?username=pablopunk&show_icons=true&icon_color=4f8cc9&bg_color=222&text_color=d3d3d3&hide_title=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pablopunk&show_icons=true&icon_color=4f8cc9&bg_color=222&text_color=d3d3d3&hide_title=true" alt="github stats for pablopunk">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablopunk&layout=compact&bg_color=222&text_color=d3d3d3" alt="language stats for pablopunk">
+</p>
 
 ### Hello! I'm Pablo.
 
