@@ -13,11 +13,11 @@ I'm a web developer working remotely from Pontevedra (Galiza ![galiza](https://g
 
 ![lang](https://github.com/pablopunk/pablopunk/raw/master/res/lang.svg) Spanish + Galician + English
 
-![link](https://github.com/pablopunk/pablopunk/raw/master/res/link.svg) [pablo.pink](https://pablo.pink)
+![link](https://github.com/pablopunk/pablopunk/raw/master/res/link.svg) [pablo.im](https://pablo.im)
 
 | ![heart](https://github.com/pablopunk/pablopunk/raw/master/res/heart.svg) Contributor | ![heart-teal](https://github.com/pablopunk/pablopunk/raw/master/res/heart-teal.svg) Pinned projects |
 | - | - |
-| [superdesk](https://github.com/superdesk/superdesk-client-core) | [pablo.pink](https://github.com/pablopunk/pablo.pink)
+| [superdesk](https://github.com/superdesk/superdesk-client-core) | [pablo.im](https://github.com/pablopunk/pablo.im)
 | [lad](https://github.com/ladjs/lad) | [vimcolors.org](https://vimcolors.org)
 | [lass](https://github.com/lassjs/lass) | [chronocube](https://github.com/pablopunk/chronocube)
 | [forwardemail.net](https://forwardemail.net) | [nextjs-redirect](https://github.com/pablopunk/nextjs-redirect)
