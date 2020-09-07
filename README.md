@@ -1,8 +1,8 @@
 <p></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pablopunk&show_icons=true&icon_color=4f8cc9&bg_color=222&text_color=d3d3d3&hide_title=true" alt="github stats for pablopunk">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablopunk&layout=compact&bg_color=222&text_color=d3d3d3" alt="language stats for pablopunk">
+  <img src="https://github-readme-stats.vercel.app/api?username=pablopunk&show_icons=true&hide_title=true" alt="github stats for pablopunk">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablopunk&layout=compact" alt="language stats for pablopunk">
 </p>
 
 ### Hello! I'm Pablo.
@@ -18,7 +18,8 @@ I'm a web developer working remotely from Pontevedra (Galiza ![galiza](https://g
 | ![heart](https://github.com/pablopunk/pablopunk/raw/master/res/heart.svg) Contributor | ![heart-teal](https://github.com/pablopunk/pablopunk/raw/master/res/heart-teal.svg) Pinned projects |
 | - | - |
 | [superdesk](https://github.com/superdesk/superdesk-client-core) | [pablo.im](https://github.com/pablopunk/pablo.im)
-| [lad](https://github.com/ladjs/lad) | [vimcolors.org](https://vimcolors.org)
+| [codesandbox](https://github.com/codesandbox/codesandbox-client) | [vimcolors.org](https://vimcolors.org)
+| [lad](https://github.com/ladjs/lad) | [dotfiles](https://github.com/pablopunk/dotfiles)
 | [lass](https://github.com/lassjs/lass) | [chronocube](https://github.com/pablopunk/chronocube)
 | [forwardemail.net](https://forwardemail.net) | [nextjs-redirect](https://github.com/pablopunk/nextjs-redirect)
 | [hyper](https://github.com/vercel/hyper) | [time](https://github.com/pablopunk/time)
