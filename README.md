@@ -13,7 +13,7 @@ I'm a web developer working remotely from Pontevedra (Galiza ![galiza](https://g
 
 ![lang](https://github.com/pablopunk/pablopunk/raw/master/res/lang.svg) Spanish + Galician + English
 
-![link](https://github.com/pablopunk/pablopunk/raw/master/res/link.svg) [pablo.im](https://pablo.im)
+![link](https://github.com/pablopunk/pablopunk/raw/master/res/link.svg) More at [pablo.im](https://pablo.im)
 
 | ![heart](https://github.com/pablopunk/pablopunk/raw/master/res/heart.svg) Contributor | ![heart-teal](https://github.com/pablopunk/pablopunk/raw/master/res/heart-teal.svg) Pinned projects |
 | - | - |
