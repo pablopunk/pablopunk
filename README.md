@@ -1,8 +1,7 @@
 <p></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pablopunk&show_icons=true&hide_title=true&theme=dracula" alt="github stats for pablopunk">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablopunk&layout=compact&theme=dracula" alt="language stats for pablopunk">
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=pablopunk&skills=Typescript,Javascript,SCSS,HTML,CSS,PHP,Shell" alt="language stats for pablopunk">
 </p>
 
 ### Hello! I'm Pablo.
