@@ -1,7 +1,7 @@
 <p></p>
 
 <p align="center">
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=pablopunk&skills=Typescript,Javascript,SCSS,HTML,CSS,PHP,Shell" alt="language stats for pablopunk">
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=pablopunk&skills=Typescript,Javascript,SCSS,HTML,CSS,PHP,Shell&bg=445d68" alt="language stats for pablopunk">
 </p>
 
 ### Hello! I'm Pablo.
