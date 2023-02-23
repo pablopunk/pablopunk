@@ -8,4 +8,6 @@ I'm a web developer working remotely from Pontevedra (Galiza ![galiza](https://g
 
 ![lang](https://github.com/pablopunk/pablopunk/raw/master/res/lang.svg) Spanish + Galician + English
 
-![link](https://github.com/pablopunk/pablopunk/raw/master/res/link.svg) More at [pablopunk.com](https://pablopunk.com)
+![link](https://github.com/pablopunk/pablopunk/raw/master/res/link.svg) [pablopunk.com](https://pablopunk.com)
+
+![contributions](https://github-readme-activity-graph.cyclic.app/graph?username=pablopunk&theme=vue)
