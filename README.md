@@ -1,13 +1,17 @@
 <p></p>
 
-### Hello! I'm Pablo.
+## Hello! I'm Pablo.
 
-I'm a web developer working remotely from Pontevedra (Galiza ![galiza](https://github.com/pablopunk/pablopunk/raw/master/res/galiza.svg)).
+_I'm a developer working remotely from Pontevedra (Galiza ![galiza](https://github.com/pablopunk/pablopunk/raw/master/res/galiza.svg))._
 
-![react](https://github.com/pablopunk/pablopunk/raw/master/res/react.svg) ReactJS + Typescript + Javascript + NodeJS
+⚛️ I use **ReactJS + Typescript + Bun.sh** to build websites like [vimcolors.org](https://vimcolors.org)
 
-![lang](https://github.com/pablopunk/pablopunk/raw/master/res/lang.svg) Spanish + Galician + English
+⌨ I use **Swift** to build macOS apps like [SwiftShift](https://swiftshift.app)
 
-![link](https://github.com/pablopunk/pablopunk/raw/master/res/link.svg) [pablopunk.com](https://pablopunk.com)
+🌙 I use **Lua** to build **Neovim plugins** like [unclutter.nvim](https://github.com/pablopunk/unclutter.nvim)
+
+💬 I speak **Spanish + Galician + English**
+
+🔗 [pablopunk.com](https://pablopunk.com)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=pablopunk&count_private=true&show_icons=true&theme=tokyonight)
