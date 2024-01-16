@@ -10,4 +10,4 @@ I'm a web developer working remotely from Pontevedra (Galiza ![galiza](https://g
 
 ![link](https://github.com/pablopunk/pablopunk/raw/master/res/link.svg) [pablopunk.com](https://pablopunk.com)
 
-![contributions](https://github-readme-activity-graph.vercel.app/graph?username=pablopunk&theme=vue)
+![stats](https://github-readme-stats.vercel.app/api?username=pablopunk&count_private=true&show_icons=true&theme=tokyonight)
