@@ -4,9 +4,9 @@
 
 _I'm a developer working remotely from Pontevedra (Galiza ![galiza](https://github.com/pablopunk/pablopunk/raw/master/res/galiza.svg))._
 
-⚛️ I use **ReactJS + Typescript + Bun.sh** to build websites like [vimcolors.org](https://vimcolors.org)
+⚛️ I use **ReactJS + Typescript + Bun.sh** to build websites like [vimcolors.org](https://vimcolors.org) or [pablopunk.com](https://pablopunk.com)
 
-⌨ I use **Swift** to build macOS apps like [SwiftShift](https://swiftshift.app)
+⌨ I use **Swift** to build macOS apps like [Swift Shift](https://swiftshift.app)
 
 🌙 I use **Lua** to build **Neovim plugins** like [unclutter.nvim](https://github.com/pablopunk/unclutter.nvim)
 
