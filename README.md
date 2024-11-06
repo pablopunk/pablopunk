@@ -2,7 +2,7 @@
 
 ## Hello! I'm Pablo.
 
-_I'm a developer working remotely from Pontevedra (Galiza ![galiza](https://github.com/pablopunk/pablopunk/raw/master/res/galiza.svg))._
+_I'm a developer working remotely from ~~Pontevedra (Galiza ![galiza](https://github.com/pablopunk/pablopunk/raw/master/res/galiza.svg))~~ València ![](https://github.com/pablopunk/pablopunk/raw/master/res/valencia.png)._
 
 ⚛️ I use **Typescript** with **Astro/NextJS/React/Bun** to build websites like [vimcolors.org](https://vimcolors.org) or [pablopunk.com](https://pablopunk.com)
 
