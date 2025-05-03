@@ -8,7 +8,7 @@ _I'm a developer working remotely from ~~Pontevedra (Galiza ![galiza](https://gi
 
 ⌨ I use **Swift** to build macOS apps like [Swift Shift](https://swiftshift.app)
 
-🌙 I use **Lua** to build **Dev tools** like [unclutter.nvim](https://github.com/pablopunk/unclutter.nvim) or [nos](https://github.com/pablopunk/nos)
+🌙 I use **Lua** to build **Dev tools** like [unclutter.nvim](https://github.com/pablopunk/unclutter.nvim) or [dot](https://github.com/pablopunk/dot)
 
 💬 I speak **Spanish + Galician + English**
 
