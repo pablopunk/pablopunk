@@ -16,5 +16,3 @@ _I'm a developer working remotely from ~~Pontevedra (Galiza ![galiza](https://gi
 💬 I speak **Spanish + Galician + English**
 
 🔗 [pablopunk.com](https://pablopunk.com)
-
-![stats](https://github-readme-stats.vercel.app/api?username=pablopunk&count_private=true&show_icons=true&theme=tokyonight)
