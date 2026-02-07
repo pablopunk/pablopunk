@@ -87,8 +87,14 @@ _I'm a developer working remotely from ~~Pontevedra (Galiza ![galiza](https://gi
   </tr>
   <tr>
     <td><a href="https://github.com/pablopunk/colortest">colortest</a></td>
-    <td>Shell</td>
+    <td>Bash</td>
     <td>Quickly show all your terminal colors</td>
+    <td>2017</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/pablopunk/bashy">bashy</a></td>
+    <td>Bash</td>
+    <td>Fast and simple git prompt for Bash & ZSH</td>
     <td>2017</td>
   </tr>
 </table>
