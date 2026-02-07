@@ -11,7 +11,7 @@ _I'm a developer working remotely from ~~Pontevedra (Galiza ![galiza](https://gi
 
 ⌨ I use **Swift** to build macOS apps like [Swift Shift](https://swiftshift.app)
 
-⌨ I use **Lua** to build **Neovim plugins** like [unclutter.nvim](https://github.com/pablopunk/unclutter.nvim) and [pi.nvim](https://github.com/pablopunk/pi.nvim)
+⌨ I use **Lua** to build **Neovim plugins** like [unclutter.nvim](https://github.com/pablopunk/unclutter.nvim), [pi.nvim](https://github.com/pablopunk/pi.nvim) and [todo.nvim](https://github.com/pablopunk/todo.nvim)
 
 🛠️ I use **Go** to build **Dev tools** like [dot](https://github.com/pablopunk/dot)
 
