@@ -80,6 +80,12 @@ _I'm a developer working remotely from ~~Pontevedra (Galiza ![galiza](https://gi
     <td>2024</td>
   </tr>
   <tr>
+    <td><a href="https://github.com/pablopunk/bashy">bashy</a></td>
+    <td>Bash</td>
+    <td>Fast and simple git prompt for Bash & ZSH</td>
+    <td>2017</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/pablopunk/truecolor">truecolor</a></td>
     <td>JavaScript</td>
     <td>Test if your terminal supports true color</td>
@@ -89,12 +95,6 @@ _I'm a developer working remotely from ~~Pontevedra (Galiza ![galiza](https://gi
     <td><a href="https://github.com/pablopunk/colortest">colortest</a></td>
     <td>Bash</td>
     <td>Quickly show all your terminal colors</td>
-    <td>2017</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/pablopunk/bashy">bashy</a></td>
-    <td>Bash</td>
-    <td>Fast and simple git prompt for Bash & ZSH</td>
     <td>2017</td>
   </tr>
 </table>
