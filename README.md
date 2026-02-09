@@ -29,7 +29,7 @@ _I'm a developer working remotely from ~~Pontevedra (Galiza ![galiza](https://gi
     <td>2020</td>
   </tr>
   <tr>
-    <td><a href="https://doce.dev">doce.dev</a><sup>✨new</sup></td>
+    <td><a href="https://doce.dev">doce.dev</a> <sup>✨new</sup></td>
     <td>Astro</td>
     <td><sub>⏳ Coming Soon...</sub></td>
     <td>2025</td>
