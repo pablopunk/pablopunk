@@ -1,12 +1,12 @@
 <p></p>
 
-[![committers.top badge](https://user-badge.committers.top/spain/pablopunk.svg)](https://user-badge.committers.top/spain/pablopunk)
+[![committers.top badge](https://user-badge.committers.top/spain_private/pablopunk.svg)](https://user-badge.committers.top/spain_private/pablopunk)
 
 ## Hello! I'm Pablo
 
-_I'm a developer working remotely from ~~Pontevedra (Galiza ![galiza](https://github.com/pablopunk/pablopunk/raw/master/res/galiza.svg))~~ València ![](https://github.com/pablopunk/pablopunk/raw/master/res/valencia.png)_
+_I'm a developer working remotely from ~~Pontevedra (Galiza ![galiza](https://github.com/pablopunk/pablopunk/raw/master/res/galiza.svg))~~ València ![](https://github.com/pablopunk/pablopunk/raw/master/res/valencia.png)_.
 
----
+A few of my projects:
 
 <table>
   <tr><th colspan="4" align="left">🌐 webs</th></tr>
@@ -98,8 +98,6 @@ _I'm a developer working remotely from ~~Pontevedra (Galiza ![galiza](https://gi
     <td>2017</td>
   </tr>
 </table>
-
----
 
 💬 **Spanish + Galician + English**
 
