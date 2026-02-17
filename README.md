@@ -31,7 +31,7 @@ A few of my projects:
   <tr>
     <td><a href="https://doce.dev">doce.dev</a> <sup>✨new</sup></td>
     <td>Astro</td>
-    <td><sub>⏳ Coming Soon...</sub></td>
+    <td>Selfhoted AI website builder</td>
     <td>2025</td>
   </tr>
   <tr><th colspan="4" align="left">💻 apps</th></tr>
