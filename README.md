@@ -102,3 +102,13 @@ A few of my projects:
 💬 **Spanish + Galician + English**
 
 🔗 [pablopunk.com](https://pablopunk.com)
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=pablopunk%2FSwiftShift%2Cpablopunk%2Fpi.nvim%2Cpablopunk%2Fnextjs-redirect%2Cpablopunk%2Fcolortest%2Cpablopunk%2Ftime%2Cpablopunk%2Fchronocube%2Cpablopunk%2Fbashy&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=pablopunk/SwiftShift%2Cpablopunk/pi.nvim%2Cpablopunk/nextjs-redirect%2Cpablopunk/colortest%2Cpablopunk/time%2Cpablopunk/chronocube%2Cpablopunk/bashy&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=pablopunk/SwiftShift%2Cpablopunk/pi.nvim%2Cpablopunk/nextjs-redirect%2Cpablopunk/colortest%2Cpablopunk/time%2Cpablopunk/chronocube%2Cpablopunk/bashy&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=pablopunk/SwiftShift%2Cpablopunk/pi.nvim%2Cpablopunk/nextjs-redirect%2Cpablopunk/colortest%2Cpablopunk/time%2Cpablopunk/chronocube%2Cpablopunk/bashy&type=date&legend=top-left" />
+ </picture>
+</a>
