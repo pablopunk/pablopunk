@@ -42,7 +42,13 @@ A few of my projects:
     <td>2023</td>
   </tr>
   <tr>
-    <td><a href="https://yonna.app">Yonna</a> <sup>✨new</sup></td>
+    <td><a href="https://github.com/pablopunk/edges">Edges</a> <sup>✨new</sup></td>
+    <td>Rust</td>
+    <td>Active window edges for macOS</td>
+    <td>2026</td>
+  </tr>
+  <tr>
+    <td><a href="https://yonna.app">Yonna</a></td>
     <td>Electrobun</td>
     <td><sub>⏳ Coming Soon...</sub></td>
     <td>2026</td>
