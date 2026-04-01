@@ -12,100 +12,107 @@ A few of my projects:
   <tr><th colspan="4" align="left">🌐 webs</th></tr>
   <tr>
     <td><a href="https://pablopunk.com">pablopunk.com</a></td>
-    <td>Astro</td>
+    <td><img src="https://skillicons.dev/icons?i=astro,ts" alt="Astro, TypeScript" height="20" /></td>
     <td>Personal website and blog</td>
     <td>2017</td>
   </tr>
   <tr>
     <td><a href="https://vimcolors.org">vimcolors.org</a></td>
-    <td>Next.js</td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs,ts" alt="Next.js, TypeScript" height="20" /></td>
     <td>Generate custom Vim/Neovim colorschemes easily</td>
     <td>2018</td>
   </tr>
   <tr>
     <td><a href="https://time.pablopunk.com">time</a></td>
-    <td>Next.js</td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs,ts" alt="Next.js, TypeScript" height="20" /></td>
     <td>The simplest yet configurable online clock</td>
     <td>2020</td>
   </tr>
   <tr>
     <td><a href="https://doce.dev">doce.dev</a> <sup>✨new</sup></td>
-    <td>Astro</td>
+    <td><img src="https://skillicons.dev/icons?i=astro,ts" alt="Astro, TypeScript" height="20" /></td>
     <td>Selfhoted AI website builder</td>
     <td>2025</td>
   </tr>
   <tr><th colspan="4" align="left">💻 apps</th></tr>
   <tr>
     <td><a href="https://swiftshift.app">Swift Shift</a></td>
-    <td>Swift</td>
+    <td><img src="https://skillicons.dev/icons?i=swift,apple" alt="Swift, Apple" height="20" /></td>
     <td>Sweet window management for macOS</td>
     <td>2023</td>
   </tr>
   <tr>
     <td><a href="https://github.com/pablopunk/edges">Edges</a> <sup>✨new</sup></td>
-    <td>Rust</td>
+    <td><img src="https://skillicons.dev/icons?i=rust,apple" alt="Rust, Apple" height="20" /></td>
     <td>Active window edges for macOS</td>
     <td>2026</td>
   </tr>
   <tr>
     <td><a href="https://github.com/pablopunk/mousetrap">Mousetrap</a> <sup>✨new</sup></td>
-    <td>Swift</td>
+    <td><img src="https://skillicons.dev/icons?i=swift,apple" alt="Swift, Apple" height="20" /></td>
     <td>Keyboard-driven mouse for macOS. Kill the mouse!</td>
     <td>2026</td>
   </tr>
   <tr>
     <td><a href="https://yonna.app">Yonna</a></td>
-    <td>Electrobun</td>
+    <td><img src="https://github.com/blackboardsh/electrobun/assets/75102186/8799b522-0507-45e9-86e3-c3cfded1aa7c" alt="Electrobun" height="20" /> <img src="https://skillicons.dev/icons?i=bun" alt="Bun" width="20" /></td>
     <td><sub>⏳ Coming Soon...</sub></td>
     <td>2026</td>
   </tr>
   <tr>
     <td><a href="https://github.com/pablopunk/chronocube">Chronocube</a></td>
-    <td>Electron</td>
+    <td><img src="https://skillicons.dev/icons?i=electron" alt="Electron" width="20" /></td>
     <td>Simple app to time your Rubik's Cube solves</td>
     <td>2015</td>
   </tr>
   <tr><th colspan="4" align="left">⌨️ neovim plugins</th></tr>
   <tr>
     <td><a href="https://github.com/pablopunk/unclutter.nvim">unclutter.nvim</a></td>
-    <td>Lua</td>
+    <td><img src="https://skillicons.dev/icons?i=lua,neovim" alt="Lua, Neovim" height="20" /></td>
     <td>A smart tabline that helps you focus</td>
     <td>2023</td>
   </tr>
   <tr>
     <td><a href="https://github.com/pablopunk/pi.nvim">pi.nvim</a> <sup>✨new</sup></td>
-    <td>Lua</td>
+    <td><img src="https://skillicons.dev/icons?i=lua,neovim" alt="Lua, Neovim" height="20" /></td>
     <td>The minimal AI assistant for neovim</td>
     <td>2026</td>
   </tr>
   <tr>
     <td><a href="https://github.com/pablopunk/todo.nvim">todo.nvim</a></td>
-    <td>Lua</td>
+    <td><img src="https://skillicons.dev/icons?i=lua,neovim" alt="Lua, Neovim" height="20" /></td>
     <td>Per-project notes without leaving neovim</td>
     <td>2023</td>
+  </tr>
+  <tr><th colspan="4" align="left">✨ Raycast plugins</th></tr>
+  <tr>
+    <td><a href="https://www.raycast.com/pablopunk/yafw">YAFW</a></td>
+    <td><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="20" /></td>
+    <td>Yet Another Ffmpeg Wrapper</td>
+    <td>2024</td>
   </tr>
   <tr><th colspan="4" align="left">🛠️ CLI tools</th></tr>
   <tr>
     <td><a href="https://github.com/pablopunk/dot">dot</a></td>
-    <td>Go</td>
+    <td><img src="https://skillicons.dev/icons?i=go" alt="Go" width="20" /></td>
     <td>All your apps, configs, and dotfiles in one place</td>
     <td>2024</td>
   </tr>
   <tr>
     <td><a href="https://github.com/pablopunk/bashy">bashy</a></td>
-    <td>Bash</td>
+    <td><img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="20" /></td>
     <td>Fast and simple git prompt for Bash & ZSH</td>
     <td>2017</td>
   </tr>
   <tr>
     <td><a href="https://github.com/pablopunk/truecolor">truecolor</a></td>
-    <td>JavaScript</td>
+    <td><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="20" /></td>
     <td>Test if your terminal supports true color</td>
     <td>2019</td>
   </tr>
   <tr>
     <td><a href="https://github.com/pablopunk/colortest">colortest</a></td>
-    <td>Bash</td>
+    <td><img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="20" /></td>
     <td>Quickly show all your terminal colors</td>
     <td>2017</td>
   </tr>
