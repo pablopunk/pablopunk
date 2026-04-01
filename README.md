@@ -48,6 +48,12 @@ A few of my projects:
     <td>2026</td>
   </tr>
   <tr>
+    <td><a href="https://github.com/pablopunk/mousetrap">Mousetrap</a> <sup>✨new</sup></td>
+    <td>Swift</td>
+    <td>Keyboard-driven mouse for macOS. Kill the mouse!</td>
+    <td>2026</td>
+  </tr>
+  <tr>
     <td><a href="https://yonna.app">Yonna</a></td>
     <td>Electrobun</td>
     <td><sub>⏳ Coming Soon...</sub></td>
