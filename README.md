@@ -54,6 +54,12 @@ A few of my projects:
     <td>2026</td>
   </tr>
   <tr>
+    <td><a href="https://github.com/pablopunk/aerospace">Aerospace</a> <sup>✨new</sup></td>
+    <td><img src="https://skillicons.dev/icons?i=swift,apple" alt="Swift, Apple" height="20" /></td>
+    <td>I forked the best tiling WM to add powerful features</td>
+    <td>2026</td>
+  </tr>
+  <tr>
     <td><a href="https://yonna.app">Yonna</a></td>
     <td><img src="https://github.com/blackboardsh/electrobun/assets/75102186/8799b522-0507-45e9-86e3-c3cfded1aa7c" alt="Electrobun" height="20" /> <img src="https://skillicons.dev/icons?i=bun" alt="Bun" width="20" /></td>
     <td><sub>⏳ Coming Soon...</sub></td>
