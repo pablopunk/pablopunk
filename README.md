@@ -11,6 +11,12 @@ A few of my projects:
 <table>
   <tr><th colspan="4" align="left">🌐 webs</th></tr>
   <tr>
+    <td><a href="https://doce.dev">doce.dev</a> <sup>✨new</sup></td>
+    <td><img src="https://skillicons.dev/icons?i=astro,ts" alt="Astro, TypeScript" height="20" /></td>
+    <td>Selfhoted AI website builder</td>
+    <td>2025</td>
+  </tr>
+  <tr>
     <td><a href="https://pablopunk.com">pablopunk.com</a></td>
     <td><img src="https://skillicons.dev/icons?i=astro,ts" alt="Astro, TypeScript" height="20" /></td>
     <td>Personal website and blog</td>
@@ -27,12 +33,6 @@ A few of my projects:
     <td><img src="https://skillicons.dev/icons?i=nextjs,ts" alt="Next.js, TypeScript" height="20" /></td>
     <td>The simplest yet configurable online clock</td>
     <td>2020</td>
-  </tr>
-  <tr>
-    <td><a href="https://doce.dev">doce.dev</a> <sup>✨new</sup></td>
-    <td><img src="https://skillicons.dev/icons?i=astro,ts" alt="Astro, TypeScript" height="20" /></td>
-    <td>Selfhoted AI website builder</td>
-    <td>2025</td>
   </tr>
   <tr><th colspan="4" align="left">💻 apps</th></tr>
   <tr>
