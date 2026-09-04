@@ -73,12 +73,6 @@ A few of my projects:
     <td>2026</td>
   </tr>
   <tr>
-    <td><a href="https://yonna.app">Yonna</a></td>
-    <td><img src="https://github.com/blackboardsh/electrobun/assets/75102186/8799b522-0507-45e9-86e3-c3cfded1aa7c" alt="Electrobun" height="20" /> <img src="https://skillicons.dev/icons?i=bun" alt="Bun" width="20" /></td>
-    <td><sub>⏳ Coming Soon...</sub></td>
-    <td>2026</td>
-  </tr>
-  <tr>
     <td><a href="https://github.com/pablopunk/chronocube">Chronocube</a></td>
     <td><img src="https://skillicons.dev/icons?i=electron" alt="Electron" width="20" /></td>
     <td>Simple app to time your Rubik's Cube solves</td>
