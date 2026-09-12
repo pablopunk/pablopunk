@@ -55,7 +55,7 @@ A few of my projects:
     <td>2026</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/pablopunk/edges">Edges</a> <sup>✨new</sup></td>
+    <td><a href="https://github.com/pablopunk/edges">Edges</a></td>
     <td><img src="https://skillicons.dev/icons?i=rust,apple" alt="Rust, Apple" height="20" /></td>
     <td>Active window edges for macOS</td>
     <td>2026</td>
