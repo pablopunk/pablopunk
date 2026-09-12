@@ -12,7 +12,7 @@ A few of my projects:
 <table>
   <tr><th colspan="4" align="left">🌐 webs</th></tr>
   <tr>
-    <td><a href="https://doce.dev">doce.dev</a> <sup>✨new</sup></td>
+    <td><a href="https://doce.dev">doce.dev</a></td>
     <td><img src="https://skillicons.dev/icons?i=astro,ts" alt="Astro, TypeScript" height="20" /></td>
     <td>Selfhoted AI website builder</td>
     <td>2025</td>
