@@ -49,7 +49,7 @@ A few of my projects:
     <td>2026</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/pablopunk/fractal">Fractal</a> <sup>✨new</sup></td>
+    <td><a href="https://github.com/pablopunk/fractal">Fractal</a></td>
     <td><img src="https://skillicons.dev/icons?i=electron" alt="Electron" height="20" /></td>
     <td>My AI agent coordinator, not yours</td>
     <td>2026</td>
