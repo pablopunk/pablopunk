@@ -49,7 +49,7 @@ A few of my projects:
     <td>2026</td>
   </tr>
   <tr>
-    <td><a href="https://spotifin.app">Spotifin</a> <sup>✨new</sup></td>
+    <td><a href="https://github.com/pablopunk/spotifin">Spotifin</a> <sup>✨new</sup></td>
     <td><img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter, Dart" height="20" /></td>
     <td>Spotify-style player for your Jellyfin library. Actually, ANY song 👀</td>
     <td>2026</td>
