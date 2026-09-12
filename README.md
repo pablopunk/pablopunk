@@ -67,7 +67,7 @@ A few of my projects:
     <td>2026</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/pablopunk/aerospace">Aerospace</a> <sup>✨new</sup></td>
+    <td><a href="https://github.com/pablopunk/aerospace">Aerospace</a></td>
     <td><img src="https://skillicons.dev/icons?i=swift,apple" alt="Swift, Apple" height="20" /></td>
     <td>I forked the best tiling WM to add powerful features</td>
     <td>2026</td>
