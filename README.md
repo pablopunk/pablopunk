@@ -143,11 +143,8 @@ A few of my projects:
 
 ## Star History
 
-<a href="https://star-history.dera.page/#pablopunk/SwiftShift&pablopunk/pi.nvim&pablopunk/nextjs-redirect&pablopunk/time&pablopunk/chronocube">
+<a href="https://star-history.dera.page/pablopunk/SwiftShift?compare=pablopunk/pi.nvim&compare=pablopunk/nextjs-redirect&compare=pablopunk/time&compare=pablopunk/chronocube">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://star-history.dera.page/svg?repos=pablopunk/SwiftShift,pablopunk/pi.nvim,pablopunk/nextjs-redirect,pablopunk/time,pablopunk/chronocube&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://star-history.dera.page/svg?repos=pablopunk/SwiftShift,pablopunk/pi.nvim,pablopunk/nextjs-redirect,pablopunk/time,pablopunk/chronocube" />
    <img alt="Star History Chart" src="https://star-history.dera.page/svg?repos=pablopunk/SwiftShift,pablopunk/pi.nvim,pablopunk/nextjs-redirect,pablopunk/time,pablopunk/chronocube" />
  </picture>
 </a>
-
