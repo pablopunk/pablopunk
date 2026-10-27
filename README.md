@@ -18,12 +18,6 @@ A few of my projects:
     <td>2017</td>
   </tr>
   <tr>
-    <td><a href="https://doce.dev">doce.dev</a></td>
-    <td><img src="https://skillicons.dev/icons?i=astro,ts" alt="Astro, TypeScript" height="20" /></td>
-    <td>Selfhoted AI website builder</td>
-    <td>2025</td>
-  </tr>
-  <tr>
     <td><a href="https://vimcolors.org">vimcolors.org</a></td>
     <td><img src="https://skillicons.dev/icons?i=nextjs,ts" alt="Next.js, TypeScript" height="20" /></td>
     <td>Generate custom Vim/Neovim colorschemes easily</td>
