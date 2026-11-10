@@ -7,24 +7,67 @@
 
 _I'm a developer working remotely from ~~Pontevedra (Galiza ![galiza](https://github.com/pablopunk/pablopunk/raw/master/res/galiza.svg))~~ València ![](https://github.com/pablopunk/pablopunk/raw/master/res/valencia.png)_.
 
-A few of my projects:
+My featured projects:
+
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <a href="https://swiftshift.app">
+        <img src="https://raw.githubusercontent.com/pablopunk/SwiftShift/main/assets/icon.png" width="64" alt="Swift Shift" /><br />
+        <b>Swift Shift</b>
+      </a><br />
+      <sub>Sweet window management for macOS</sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/pablopunk/nvm">
+        <img src="https://raw.githubusercontent.com/pablopunk/nvm/main/build/Icon.icon/Assets/icon.png" width="64" alt="Nevermind" /><br />
+        <b>Nevermind</b>
+      </a><br />
+      <sub>The launcher that extends itself</sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/pablopunk/spotifin">
+        <img src="https://raw.githubusercontent.com/pablopunk/spotifin/main/assets/branding/app_icon.png" width="64" alt="Spotifin" /><br />
+        <b>Spotifin</b>
+      </a><br />
+      <sub>Spotify-style player for Jellyfin</sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/pablopunk/mousetrap">
+        <img src="https://raw.githubusercontent.com/pablopunk/mousetrap/main/assets/AppIcon.png" width="64" alt="Mousetrap" /><br />
+        <b>Mousetrap</b>
+      </a><br />
+      <sub>Keyboard-driven mouse for macOS</sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/pablopunk/pi.nvim">
+        <img src="https://skillicons.dev/icons?i=neovim" width="64" alt="pi.nvim" /><br />
+        <b>pi.nvim</b>
+      </a><br />
+      <sub>Minimal AI assistant for Neovim</sub>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary>More projects</summary>
 
 <table>
   <tr><th colspan="4" align="left">🌐 webs</th></tr>
   <tr>
-    <td><a href="https://pablopunk.com">pablopunk.com</a></td>
+    <td><nobr><img src="https://raw.githubusercontent.com/pablopunk/pablopunk.com/main/public/favicon/favicon-32x32.png" width="20" alt="" valign="middle" /> <a href="https://pablopunk.com">pablopunk.com</a></nobr></td>
     <td><img src="https://skillicons.dev/icons?i=astro,ts" alt="Astro, TypeScript" height="20" /></td>
     <td>Personal website and blog</td>
     <td>2017</td>
   </tr>
   <tr>
-    <td><a href="https://vimcolors.org">vimcolors.org</a></td>
+    <td><nobr><img src="https://raw.githubusercontent.com/pablopunk/vimcolors.org/master/public/meta/favicon-32x32.png" width="20" alt="" valign="middle" /> <a href="https://vimcolors.org">vimcolors.org</a></nobr></td>
     <td><img src="https://skillicons.dev/icons?i=nextjs,ts" alt="Next.js, TypeScript" height="20" /></td>
     <td>Generate custom Vim/Neovim colorschemes easily</td>
     <td>2018</td>
   </tr>
   <tr>
-    <td><a href="https://time.pablopunk.com">time</a></td>
+    <td><nobr><img src="https://raw.githubusercontent.com/pablopunk/time/master/public/favicon-32x32.png" width="20" alt="" valign="middle" /> <a href="https://time.pablopunk.com">time</a></nobr></td>
     <td><img src="https://skillicons.dev/icons?i=nextjs,ts" alt="Next.js, TypeScript" height="20" /></td>
     <td>The simplest yet configurable online clock</td>
     <td>2020</td>
@@ -55,7 +98,7 @@ A few of my projects:
     <td>2026</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/pablopunk/mousetrap">Mousetrap</a> <sup>✨new</sup></td>
+    <td><a href="https://github.com/pablopunk/mousetrap">Mousetrap</a></td>
     <td><img src="https://skillicons.dev/icons?i=swift,apple" alt="Swift, Apple" height="20" /></td>
     <td>Keyboard-driven mouse for macOS. Kill the mouse!</td>
     <td>2026</td>
@@ -124,6 +167,8 @@ A few of my projects:
     <td>2017</td>
   </tr>
 </table>
+
+</details>
 
 💬 **Spanish + Galician + English**
 
