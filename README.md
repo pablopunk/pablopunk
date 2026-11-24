@@ -20,7 +20,7 @@ My featured projects:
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/pablopunk/nvm">
-        <img src="https://raw.githubusercontent.com/pablopunk/nvm/main/build/Icon.icon/Assets/icon.png" width="64" alt="Nevermind" /><br />
+        <img src="https://raw.githubusercontent.com/pablopunk/nvm/main/src/backend/public/icon.png" width="64" alt="Nevermind" /><br />
         <b>Nevermind</b>
       </a><br />
       <sub>The launcher that extends itself</sub>
