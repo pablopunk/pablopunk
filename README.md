@@ -23,14 +23,14 @@ My featured projects:
         <img src="https://raw.githubusercontent.com/pablopunk/nvm/main/src/backend/public/icon.png" width="64" alt="Nevermind" /><br />
         <b>Nevermind</b>
       </a><br />
-      <sub>The command palette that extends itself. Crossplatform.</sub>
+      <sub>The command palette that extends itself</sub>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/pablopunk/spotifin">
         <img src="https://raw.githubusercontent.com/pablopunk/spotifin/main/assets/branding/app_icon.png" width="64" alt="Spotifin" /><br />
         <b>Spotifin</b>
       </a><br />
-      <sub>Spotify-style player for Jellyfin. Everywhere you go.</sub>
+      <sub>Spotify-style player for Jellyfin. Everywhere you go</sub>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/pablopunk/mousetrap">
