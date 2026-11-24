@@ -23,28 +23,28 @@ My featured projects:
         <img src="https://raw.githubusercontent.com/pablopunk/nvm/main/src/backend/public/icon.png" width="64" alt="Nevermind" /><br />
         <b>Nevermind</b>
       </a><br />
-      <sub>The launcher that extends itself</sub>
+      <sub>The command palette that extends itself. Crossplatform.</sub>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/pablopunk/spotifin">
         <img src="https://raw.githubusercontent.com/pablopunk/spotifin/main/assets/branding/app_icon.png" width="64" alt="Spotifin" /><br />
         <b>Spotifin</b>
       </a><br />
-      <sub>Spotify-style player for Jellyfin</sub>
+      <sub>Spotify-style player for Jellyfin. Everywhere you go.</sub>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/pablopunk/mousetrap">
         <img src="https://raw.githubusercontent.com/pablopunk/mousetrap/main/assets/AppIcon.png" width="64" alt="Mousetrap" /><br />
         <b>Mousetrap</b>
       </a><br />
-      <sub>Keyboard-driven mouse for macOS</sub>
+      <sub>Kill the mouse. Get it? Keyboard-driven mouse actions for macOS</sub>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/pablopunk/pi.nvim">
         <img src="https://skillicons.dev/icons?i=neovim" width="64" alt="pi.nvim" /><br />
         <b>pi.nvim</b>
       </a><br />
-      <sub>Minimal AI assistant for Neovim</sub>
+      <sub>The only AI assistant that fits Neovim</sub>
     </td>
   </tr>
 </table>
