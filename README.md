@@ -37,7 +37,7 @@ My featured projects:
         <img src="https://raw.githubusercontent.com/pablopunk/mousetrap/main/assets/AppIcon.png" width="64" alt="Mousetrap" /><br />
         <b>Mousetrap</b>
       </a><br />
-      <sub>Kill the mouse. Get it? Keyboard-driven mouse actions for macOS</sub>
+      <sub>Get it? Keyboard-driven mouse for macOS</sub>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/pablopunk/pi.nvim">
